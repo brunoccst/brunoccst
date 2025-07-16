@@ -3,8 +3,6 @@
 ###
 
 <p align="left">
-I’m a Team Lead at DocuWare, and a Software Engineer at heart.
-
 I like to drink mate 🧉, discover new bands 🎸 and code. 💻
 
 I like to think that if I made someone’s life better, then it was worth it.
